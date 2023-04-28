@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HotelRev</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="array">
+        <item>SingleBed</item>
+        <item>DoubleBed</item>
+        <item>DeluxeBed</item>
+        <item>FamilyBed</item>
+    </string-array>
+</resources>
